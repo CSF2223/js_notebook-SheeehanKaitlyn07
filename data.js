@@ -31,14 +31,21 @@ let y = 7;
 
 // Use Variables
 // **Note: An equal sign is used to assign values to variables.
-
-
-
-
+// " = " means "gets the value of"
+score = num + 3;
+lives = score + 1;
 
 
 /* ARRAYS: */
+const newEngland = ["New Hampshire", "Vermont", "Maine", "Massachusetts", "Rhode Island", "Connecticut"];
+//index values           0               1         2           3               4               5
 
+
+const grades = [91, 100, 88, 95, 75, 98, 100];
+// index values  0   1   2   3   4    5   6 
+
+let state = newEngland[2];
+let student2 = grades[1];
 
 
 
